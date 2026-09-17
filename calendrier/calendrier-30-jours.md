@@ -30,12 +30,12 @@ scripts complets au fur et à mesure (redemander ou automatiser, voir
 | 13 | Storytelling | "De sans-abri à multimillionnaire : l'histoire qu'on ne raconte pas" | Passage le plus fort de l'histoire en 45 sec |
 | 14 | Vérité qui dérange | "Vous ne manquez pas de temps, vous manquez de priorités" | "1 question à se poser chaque dimanche soir" |
 
-## Semaine 3 — à rédiger
+## Semaine 3 (rédigée intégralement — voir `contenu/semaine-03/`, format long ~14-20 min)
 
 | Jour | Pilier | Titre proposé | Angle shorts autonomes |
 |---|---|---|---|
 | 15 | Discipline | "Comment tenir une habitude même les jours où on n'a pas envie" | "La règle des 2 jours (jamais 2 fois d'affilée)" |
-| 16 | Stoïcisme | "La dichotomie du contrôle : la seule idée qui réduit l'anxiété" | "Ce qui dépend de vous / ce qui n'en dépend pas" |
+| 16 | Stoïcisme | "La visualisation négative : la technique stoïcienne pour arrêter de tenir votre vie pour acquise" | "Prémeditatio malorum expliquée en 30 sec" |
 | 17 | Productivité | "Le mythe du multitâche démonté par la science" | "Pourquoi votre cerveau déteste changer de tâche" |
 | 18 | Confiance en soi | "Pourquoi dire non est la compétence la plus rentable" | "3 mots pour refuser sans se justifier" |
 | 19 | Argent & liberté | "La liberté financière n'est pas ce que vous croyez" | "Épargner 1h par jour au lieu de 1€" |
