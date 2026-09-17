@@ -21,12 +21,19 @@ contenu/
   semaine-02/                 Idem pour la semaine 2
 ```
 
-Chaque jour contient 3 fichiers :
+Chaque jour contient 4 fichiers :
 - `jour-XX-long.md` — script complet avec structure narrative et SEO
 - `jour-XX-shorts.md` — les 3 shorts du jour
 - `jour-XX-scenes.md` — le script long découpé scène par scène (texte + suggestion
-  visuelle par scène), prêt à copier-coller dans un générateur vidéo automatique
-  type Pictory ou InVideo AI (voir `templates/script-scenes-template.md`)
+  visuelle par scène), pour un générateur vidéo automatique type Pictory ou
+  InVideo AI (voir `templates/script-scenes-template.md`)
+- `jour-XX-voix-off.md` — **le texte brut à utiliser pour la voix off** (ElevenLabs,
+  Speechify, etc.), sans aucune étiquette ni suggestion visuelle — c'est le
+  fichier à copier-coller tel quel dans un outil de synthèse vocale
+
+En résumé : voix off → `jour-XX-voix-off.md` ; générateur vidéo tout-en-un
+(script + visuels automatiques) → `jour-XX-scenes.md` ; montage manuel avec
+structure complète → `jour-XX-long.md`.
 
 **Important sur la durée** : les scripts actuels font ~450-550 mots, soit
 environ 3-4 minutes de voix off — pas 10-15 minutes. Pour un vrai format
