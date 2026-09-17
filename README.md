@@ -18,6 +18,7 @@ templates/                    Structures réutilisables (script long, short, SEO
 miniatures/                   Concepts de miniatures par semaine
 contenu/
   semaine-01/                 Scripts complets jour par jour (long + 3 shorts/jour)
+  semaine-02/                 Idem pour la semaine 2
 ```
 
 ## Comment ça avance chaque jour

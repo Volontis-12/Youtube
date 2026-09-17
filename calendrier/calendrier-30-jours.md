@@ -18,7 +18,7 @@ scripts complets au fur et à mesure (redemander ou automatiser, voir
 | 6 | Storytelling / histoire vraie | "Il a été rejeté 30 fois avant de devenir numéro 1 mondial" | 2 extraits + 1 short autonome |
 | 7 | Vérité qui dérange | "Le développement personnel vous ment sur un point essentiel" | 2 extraits + 1 short autonome |
 
-## Semaine 2 — à rédiger
+## Semaine 2 (rédigée intégralement — voir `contenu/semaine-02/`)
 
 | Jour | Pilier | Titre proposé | Angle shorts autonomes |
 |---|---|---|---|
