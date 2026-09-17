@@ -17,9 +17,21 @@ calendrier/                   Calendrier éditorial (30 jours, à renouveler)
 templates/                    Structures réutilisables (script long, short, SEO)
 miniatures/                   Concepts de miniatures par semaine
 contenu/
-  semaine-01/                 Scripts complets jour par jour (long + 3 shorts/jour)
+  semaine-01/                 Scripts complets jour par jour (long + 3 shorts/jour + version scènes)
   semaine-02/                 Idem pour la semaine 2
 ```
+
+Chaque jour contient 3 fichiers :
+- `jour-XX-long.md` — script complet avec structure narrative et SEO
+- `jour-XX-shorts.md` — les 3 shorts du jour
+- `jour-XX-scenes.md` — le script long découpé scène par scène (texte + suggestion
+  visuelle par scène), prêt à copier-coller dans un générateur vidéo automatique
+  type Pictory ou InVideo AI (voir `templates/script-scenes-template.md`)
+
+**Important sur la durée** : les scripts actuels font ~450-550 mots, soit
+environ 3-4 minutes de voix off — pas 10-15 minutes. Pour un vrai format
+long, il faudra soit étoffer les scripts (1500-2200 mots), soit accepter ce
+format plus court comme référence pour la suite.
 
 ## Comment ça avance chaque jour
 
